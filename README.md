@@ -1,2 +1,4 @@
 # LangLab_Summary
-Our plan for this project is to summarise two subchapters (First Language Acquisition and Second Language Acquisition/Learning) written by George Yule.
+Summary of chapters First language acquistion and Second language acquistion from The study of language by George Yule.
+
+Yule, G. (2020). The study of language. Cambridge University Press.

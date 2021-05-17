@@ -1,6 +1,3 @@
-# First Language Acquisition
-
-
 # Second language acquisition/learning
 
 ## Second language learning
