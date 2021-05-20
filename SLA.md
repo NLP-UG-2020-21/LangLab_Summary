@@ -11,12 +11,11 @@ The author introduces this issue explaining that most people’s experience with
 ### The Age Factor
 There is a view that “an inherent capacity for language” has got its strongest period before puberty and the acquisition of a new L2 is significantly harder after this time. On the other hand, an opposing view illustrates teenagers as more effective L2 learners in comparison to their younger colleagues (e.g. seven-year-olds). Thus, Yule suggests that proper learning of L2 requires a set of factors such as proper age (from ten to sixteen).
 ### Affective Factors
-There is a possibility that the aforementioned optimum age for learning the second language will be blocked by another issue. As teenagers are more self-conscious, there might be a possibility for them to get embarrassed and, eventually, to get reluctant. Yule describes such negative facets as affective factors creating a barrier between the learner and the second language. One’s mentality is crucial in effective learning and cannot be unmentioned. Affective factors are less serious when it comes to younger learners and this might be why many researchers claim that age matters so much in terms of L2 learning. 
-
+There is a possibility that the aforementioned optimum age for learning the second language will be blocked by another issue. As teenagers are more self-conscious, there might be a possibility for them to get embarrassed and, eventually, to become reluctant. Yule describes such negative facets as affective factors creating a barrier between the learner and the second language. One’s mentality is crucial in effective learning and cannot be unmentioned. Affective factors are less serious when it comes to younger learners and this might be why many researchers claim that age matters so much in terms of L2 learning.
 ## Focus on method
-
+With the problem of the barriers, emerged the need to create approaches helpful in cherishing L2 learning. In the past, exercise materials developed. Nowadays, a number of different methods and views on improving the L2 learning experience is constantly arising.
 ### The grammar–translation method
-
+The grammar-translation method serves as the most traditional way of teaching a language based on vocabulary lists and grammar rules. The theory behind a language needs to be memorised and practised mainly in writing. Spoken language is less highlighted. One of the most significant drawbacks of this method is the lack of focus on everyday, casual L2 usage. It is common that students with high grades in an L2, taught mainly with this method, tend to have problems when confronted with a native speaker of such language. 
 ### The audiolingual method
 
 ### Communicative approaches
