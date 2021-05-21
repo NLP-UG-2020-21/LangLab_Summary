@@ -1,0 +1,3 @@
+### The Acquisition Process
+Although it is a common belief that children are taught a given language, the child’s production of utterances seems to be majorly relying on the child’s experimentation with language rather than the adult’s instructions. 
+Research suggests that children do not learn through the process of imitating or through ‘corrections’ given by adults. In fact, one of the most vital elements of the child’s acquisition process is the use of both word combinations and sounds. Additionally, wordplay appears to be a crucial factor in the development of the child's language repertoire.
