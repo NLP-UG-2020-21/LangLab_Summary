@@ -17,10 +17,9 @@ With the problem of the barriers, emerged the need to create approaches helpful 
 ### The grammar–translation method
 The grammar-translation method serves as the most traditional way of teaching a language based on vocabulary lists and grammar rules. The theory behind a language needs to be memorised and practised mainly in writing. Spoken language is less highlighted. One of the most significant drawbacks of this method is the lack of focus on everyday, casual L2 usage. It is common that students with high grades in an L2, taught mainly with this method, tend to have problems when confronted with a native speaker of such language. 
 ### The audiolingual method
-
+The audiolingual method highlights the importance of speaking a language. With the use of drills, it systematically presents the succeeding elements of L2. Yule explains this method as a progression of certain language ‘habits’ through repeating oral exercises. However, some drawbacks of the audiolingual method are present. Firstly, as Yule claims, the deserted drills do not mirror the everyday usage of L2 and, moreover, this approach might become boring.   
 ### Communicative approaches
-
-
+Yule describes communicative approaches as more recent and focused primarily on the functions of language. This involves discussing the variety of social settings in classroom lessons.
 ## Focus on the learner
 
 ### Transfer
