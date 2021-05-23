@@ -3,3 +3,7 @@
 Although it is a common belief that children are taught a given language, the child’s production of utterances seems to be majorly relying on the child’s experimentation with language rather than the adult’s instructions. 
 Research suggests that children do not learn through the process of imitating or through ‘corrections’ given by adults. In fact, one of the most vital elements of the child’s acquisition process is the use of both word combinations and sounds. Additionally, wordplay appears to be a crucial factor in the development of the child's language repertoire.
 ### Developing morphology
+Once children move beyond telegraphic speech, they begin to integrate morphemes (inflectional and functional) into their speech patterns. 
+While at first the -ing expressions and prepositions are employed, the next stage is related to the use of plurals. This stage is associated with overgeneralization, the process of applying a grammatical rule in cases where it doesn't apply (e.g. foots). The acquisition process adheres to the following scheme: the -ing form, prepositions, plural -s, irregular past tense, possessive -s, to be, articles, past tense, and present tense. 
+### Developing syntax
+While looking at the initial production of syntax in the child’s speech, questions and negatives are structures acquired systematically. When it comes to forming both of the aforementioned structures, the pattern of acquisition commonly observes the following scheme: Stage 1 (18-26 months), Stage 2 (22 and 30 months), and Stage 3 (24-40 months).
