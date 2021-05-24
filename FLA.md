@@ -7,3 +7,8 @@ Once children move beyond telegraphic speech, they begin to integrate morphemes 
 While at first the -ing expressions and prepositions are employed, the next stage is related to the use of plurals. This stage is associated with overgeneralization, the process of applying a grammatical rule in cases where it doesn't apply (e.g. foots). The acquisition process adheres to the following scheme: the -ing form, prepositions, plural -s, irregular past tense, possessive -s, to be, articles, past tense, and present tense. 
 ### Developing syntax
 While looking at the initial production of syntax in the child’s speech, questions and negatives are structures acquired systematically. When it comes to forming both of the aforementioned structures, the pattern of acquisition commonly observes the following scheme: Stage 1 (18-26 months), Stage 2 (22 and 30 months), and Stage 3 (24-40 months).
+#### Forming questions
+In the **first stage**, questions are formed with *wh*-forms added to the beginning of a sentence (e.g. *Where kitty?*) While in the **second stage** more *wh*-forms and more elaborate structures are used by a child, within the **third stage** the inversion of auxiliary verbs occurs.
+#### Forming negatives
+In the **first stage**, negatives are formed by adding *no* or *not* at the beginning of a sentence. In the **second stage**, on the other hand, the child appears to start using the form *don’t*. 
+Lastly, in the **third stage**, the child begins to add *didn’t* and *won’t* to verbs to form negatives. 
