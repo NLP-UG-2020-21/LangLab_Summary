@@ -11,4 +11,10 @@ While looking at the initial production of syntax in the child’s speech, quest
 In the **first stage**, questions are formed with *wh*-forms added to the beginning of a sentence (e.g. *Where kitty?*) While in the **second stage** more *wh*-forms and more elaborate structures are used by a child, within the **third stage** the inversion of auxiliary verbs occurs.
 #### Forming negatives
 In the **first stage**, negatives are formed by adding *no* or *not* at the beginning of a sentence. In the **second stage**, on the other hand, the child appears to start using the form *don’t*. 
-Lastly, in the **third stage**, the child begins to add *didn’t* and *won’t* to verbs to form negatives. 
+Lastly, in the **third stage**, the child begins to add *didn’t* and *won’t* to verbs to form negatives.
+### Developing semantics
+Even though the process of giving meaning to certain words by children is somewhat unclear, the most recognizable process appears to be overextension. **Overextension** is the use of a single word to label multiple different things which are seen as not necessarily connected (e.g. *fly* denoting an *insect* and *dirt*). At the same time, the child can recognize differences between objects.
+As far as **hyponymy** is concerned, children tend to choose the middle term rather than the most general one (e.g. a *dog* rather than an *animal*).
+### Later Developments
+The later stages of acquisition involve learning to distinguish between the antonymous pairs of words such as *before*/*after*. Similarly, the ability to employ more complex syntactic structures as well as **extended discourse** come later in the child's development.
+Once a child reaches the **age of five**, the major part of the language acquisition process seems to be finalized. Thus, at this point in the development, children grow into competent language users. However, there remains the question of why the L2 learning process poses such a challenge given that first language acquisition occurs naturally.
