@@ -1,12 +1,25 @@
 # First Language Acquisition
 ### The Acquisition Process
 Although it is a common belief that children are taught a given language, the child’s production of utterances seems to be majorly relying on the child’s experimentation with language rather than the adult’s instructions. 
-Research suggests that children do not learn through the process of imitating or through ‘corrections’ given by adults. In fact, one of the most vital elements of the child’s acquisition process is the use of both word combinations and sounds. Additionally, wordplay appears to be a crucial factor in the development of the child's language repertoire.
+Research suggests that children do not learn through the process of imitating or through **corrections** given by adults. In fact, one of the most vital elements of the child’s acquisition process is the use of both word combinations and sounds. Additionally, wordplay appears to be a crucial factor in the development of the child's language repertoire.
 ### Developing morphology
-Once children move beyond telegraphic speech, they begin to integrate morphemes (inflectional and functional) into their speech patterns. 
-While at first the -ing expressions and prepositions are employed, the next stage is related to the use of plurals. This stage is associated with overgeneralization, the process of applying a grammatical rule in cases where it doesn't apply (e.g. foots). The acquisition process adheres to the following scheme: the -ing form, prepositions, plural -s, irregular past tense, possessive -s, to be, articles, past tense, and present tense. 
+Once children move beyond [telegraphic speech](https://en.wikipedia.org/wiki/Telegraphic_speech), they begin to integrate morphemes (inflectional and functional) into their speech patterns. 
+While at first the -*ing* expressions and prepositions are employed, the next stage is related to the use of plurals. This stage is associated with **overgeneralization**, the process of applying a grammatical rule in cases where it doesn't apply (e.g. *foots*). The acquisition process adheres to the following scheme: the -*ing* form, prepositions, plural *-s*, irregular past tense, possessive *-s*, to *be*, articles, past tense, and present tense. The following table (Yule 2020, p. 208) presents the gradual acquisition of morphemes:
+| Stage 	|       Morpheme       	|    Examples   	|
+|:-----:	|:--------------------:	|:-------------:	|
+| 1     	| -ing                 	| mommy reading 	|
+| 2     	| in                   	| not in that   	|
+| 3     	| on                   	| on bed        	|
+| 4     	| plural -s            	| cats          	|
+| 5     	| irregular past tense 	| he came       	|
+| 6     	| possessive -s        	| mommy's book  	|
+| 7     	| verb 'to be'         	| this is no    	|
+| 8     	| articles             	| a cat         	|
+| 9     	| past tense -ed       	| it opened     	|
+| 10    	| present tense -s     	| it comes      	|
+
 ### Developing syntax
-While looking at the initial production of syntax in the child’s speech, questions and negatives are structures acquired systematically. When it comes to forming both of the aforementioned structures, the pattern of acquisition commonly observes the following scheme: Stage 1 (18-26 months), Stage 2 (22 and 30 months), and Stage 3 (24-40 months).
+While looking at the initial production of syntax in the child’s speech, questions and negatives are structures acquired systematically. When it comes to forming both of the aforementioned structures, the pattern of acquisition commonly observes the following scheme: **Stage 1** (18-26 months), **Stage 2** (22 and 30 months), and **Stage 3** (24-40 months).
 #### Forming questions
 In the **first stage**, questions are formed with *wh*-forms added to the beginning of a sentence (e.g. *Where kitty?*) While in the **second stage** more *wh*-forms and more elaborate structures are used by a child, within the **third stage** the inversion of auxiliary verbs occurs.
 #### Forming negatives
