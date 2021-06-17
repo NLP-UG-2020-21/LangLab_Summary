@@ -20,18 +20,22 @@ The grammar-translation method serves as **the most traditional** way of teachin
 The audiolingual method highlights the importance of speaking a language. With the use of **drills**, it systematically presents the succeeding elements of L2. Yule explains this method as a progression of certain language ‘habits’ through repeating oral exercises. However, some drawbacks of the audiolingual method are present. Firstly, as Yule claims, the deserted drills do not mirror the everyday usage of L2 and, moreover, this approach might become boring.   
 ### Communicative approaches
 Yule describes communicative approaches as more recent and focused primarily on the **functions** of language. This involves discussing the variety of **social settings** in classroom lessons.
+
 ## Focus on the learner
-
+Recently, the field of L2 studies has changed the centre of **interest** from teaching to **learner**. As a result, there is a different approach to **errors**. They are no longer viewed negatively, but as **a sign of trying to progress**. Nowadays, communication is more valued than linguistic correctness.
 ### Transfer
-
+Transfer or *crosslinguistic influence* refers to the phenomenon of influence of the L1 on the L2 in terms of analogical application of sounds, phrases and syntax. Copying from L1 similar linguistics features in L2 results in **positive transfer**, while transferring significantly different aspects leads to **negative transfer**.
 ### Interlanguage
-
+**Interlanguage** is a system with blended features from L1 and L2, which is fundamental in second language acquisition and production of L2. Process of **fossilization**, referring to the stage in which progress is no longer achieved, does not apply to the interlanguage.
 ### Motivation
-
+Motivation is crucial factor in achieving success in second language acquisition. Among others, there is distinguished **instrumental motivation**, where learning L2 pursues a different goal, as well as **integrative motivation**, in which language learning is proceeded in order to achieve social goals.
 ### Input and output
-
-
+**Input**, which refers to learner's contact with the language, simplified in order to become more understandable is known as **foreign talk**. It allows learner to communicate, as well as presents clear examples of grammar, phrases and syntax usage. Moreover, learner can gain L2 through **negotiated input**, which is gaining material during communication by asking questions for clarification while active attention is focused on what is stated.
+### Task-Based learning
+**Task-based learning** helps to gain communicative competence by providing variety of activities forcing learners to interact with each other.
 ## Communicative competence
-
-
-## Applied linguistics
+**Communicative competence** is an ability to communicate freely. It consists of three components:
+* grammatical competence,
+* sociolinguistic competence,
+* strategic competence.
+**Communication strategy** is a competence of coping with and bypassing communication problems during conversation. The flexibility in language usage is essential for successful communication.
